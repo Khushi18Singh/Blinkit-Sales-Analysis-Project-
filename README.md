@@ -3,15 +3,15 @@
 Blinkit-Sales-Analysis-Dashboard
 A Power BI dashboard analyzing Blinkit’s sales, outlet performance, and customer ratings using SQL-cleaned data to uncover key business insights and trends. Here is your complete GitHub-ready section recreated AGAIN, now including Key Questions + Key Insights. This is clean, professional, and ready to paste directly into your README.
 
-✅## 1. Project Title
+✅**1. Project Title**
 
 Blinkit Sales Performance Dashboard – Power BI & SQL Data Analytics Project
 
-✅ ## 2. Short Description / Purpose
+✅**2. Short Description / Purpose**
 
 This project analyzes Blinkit’s sales trends, customer ratings, outlet distribution, and product performance using Power BI and SQL. The purpose is to identify what drives sales, which outlets perform best, which items contribute the most, and how customer preferences vary—providing deep, actionable business insights.
 
-✅## 3. Tech Stack
+✅**3. Tech Stack**
 
 Power BI – Dashboard development & DAX
 SQL Server – Data cleaning, KPI queries
@@ -19,7 +19,7 @@ Power Query – ETL & transformations
 Excel – Raw data preparation
 DAX – Calculated measures, KPIs
 
-✅## 4. Data Sources
+✅**4. Data Sources**
 📁 Dataset Name:
 BlinkIT Grocery Sales Dataset
 
@@ -39,7 +39,7 @@ Rating
 Total Sales
 Dataset contains 8523 records across multiple outlets & item categories.
 
-✅## 5. Features & Highlights
+✅**5. Features & Highlights**
 🔹 **📌 Interactive KPI Section**
 
 Total Sales: $1.20M
@@ -80,7 +80,7 @@ Fixed inconsistent fat content values (LF, low fat, reg)
 Removed duplicates
 Standardized fields for accurate reporting
 
-⭐## 6. Key Questions Answered in the Dashboard
+⭐ **6. Key Questions Answered in the Dashboard**
 🔍 Q1. Which product categories generate the highest revenue?
 Insight: Fruits & Vegetables, Snack Foods, Household items are top contributors.
 
@@ -105,7 +105,7 @@ Insight: Average rating is 3.9, indicating overall positive shopper experience.
 🔍 Q8. How visible items influence sales?
 Insight: Higher item visibility correlates with better sales, especially in large outlets.
 
-🌟 ##7. Key Insights Summary
+🌟 **7. Key Insights Summary**
 Medium outlets are the most profitable.
 Tier-3 locations show surprisingly highest sales.
 Regular fat products dominate revenue.
@@ -114,7 +114,7 @@ Supermarket Type-1 outlets are top performers.
 Essential grocery categories (F&V + Snacks) drive major sales.
 Customer ratings remain steady at 3.9, indicating consistent satisfaction.
 
-🌟 ##8. Key Insights Summary
+🌟 **8. Key Insights Summary**
 
 Show waht the dashboard looks like:
 
