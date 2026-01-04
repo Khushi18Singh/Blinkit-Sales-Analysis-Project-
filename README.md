@@ -1,6 +1,8 @@
 # Blinkit-Sales-Analysis-Project-
+
 "End-to-end data analysis of Blinkit sales using Python and dashboards to uncover actionable business insights.”
 Blinkit-Sales-Analysis-Dashboard
+
 A Power BI dashboard analyzing Blinkit’s sales, outlet performance, and customer ratings using SQL-cleaned data to uncover key business insights and trends. Here is your complete GitHub-ready section recreated AGAIN, now including Key Questions + Key Insights. This is clean, professional, and ready to paste directly into your README.
 
 ✅**1. Project Title**
@@ -20,10 +22,12 @@ Excel – Raw data preparation
 DAX – Calculated measures, KPIs
 
 ✅**4. Data Sources**
+
 📁 Dataset Name:
 BlinkIT Grocery Sales Dataset
 
 ## 📊 Dataset Includes Fields:
+
 Item Identifier
 Item Type
 Item Fat Content
@@ -40,6 +44,7 @@ Total Sales
 Dataset contains 8523 records across multiple outlets & item categories.
 
 ✅**5. Features & Highlights**
+
 🔹 **📌 Interactive KPI Section**
 
 Total Sales: $1.20M
@@ -67,6 +72,7 @@ Medium outlets → highest ($507.90K) ✔ Ideal outlet size for profitable opera
 🔹 **📌 Sales by Outlet Location Type**
 Tier-3 leads ($472.13K) ✔ Strong demand in developing urban areas.
 🔹 **📌 Metrics by Outlet Type**
+
 Detailed view of:
 
 Total Sales
@@ -81,6 +87,7 @@ Removed duplicates
 Standardized fields for accurate reporting
 
 ⭐ **6. Key Questions Answered in the Dashboard**
+
 🔍 Q1. Which product categories generate the highest revenue?
 Insight: Fruits & Vegetables, Snack Foods, Household items are top contributors.
 
@@ -106,6 +113,7 @@ Insight: Average rating is 3.9, indicating overall positive shopper experience.
 Insight: Higher item visibility correlates with better sales, especially in large outlets.
 
 🌟 **7. Key Insights Summary**
+
 Medium outlets are the most profitable.
 Tier-3 locations show surprisingly highest sales.
 Regular fat products dominate revenue.
