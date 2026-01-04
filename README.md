@@ -108,4 +108,4 @@ Customer ratings remain steady at 3.9, indicating consistent satisfaction.
 
 🌟 **8. Key Insights Summary **
 Show waht the dashboard looks like:
-Example: Preview Dashboard
+Example: Preview Dashboard https://github.com/Khushi18Singh/Blinkit-Sales-Analysis-Project-/blob/main/Blinkit%20%20Dashboard.Png.jpeg
