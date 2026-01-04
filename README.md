@@ -97,7 +97,7 @@ Insight: Average rating is 3.9, indicating overall positive shopper experience.
 🔍 Q8. How visible items influence sales?
 Insight: Higher item visibility correlates with better sales, especially in large outlets.
 
-🌟 **7. Key Insights Summary **
+🌟 **7. Key Insights Summary**
 Medium outlets are the most profitable.
 Tier-3 locations show surprisingly highest sales.
 Regular fat products dominate revenue.
@@ -106,6 +106,33 @@ Supermarket Type-1 outlets are top performers.
 Essential grocery categories (F&V + Snacks) drive major sales.
 Customer ratings remain steady at 3.9, indicating consistent satisfaction.
 
-🌟 **8. Key Insights Summary **
+🌟 **8. Key Insights Summary**
+
 Show waht the dashboard looks like:
+
 Example: Preview Dashboard https://github.com/Khushi18Singh/Blinkit-Sales-Analysis-Project-/blob/main/Blinkit%20%20Dashboard.Png.jpeg
+
+## 🐍 Python Analysis Report
+
+This project includes a detailed Python-based analysis report created using Jupyter Notebook and exported as a PDF.
+
+### 🔍 What’s included in the Python Report:
+- Data loading and inspection of the Blinkit sales dataset
+- Data cleaning and standardization (e.g., fat content categories)
+- KPI calculations:
+  - Total Sales
+  - Average Sales
+  - Number of Items Sold
+  - Average Customer Rating
+- Exploratory Data Analysis (EDA) using multiple visualizations:
+- Like: 
+  - Pie & Donut charts
+  - Bar & Horizontal bar charts
+  - Line chart for sales trends
+  - Scatter, bubble, box, and violin plots
+  - Heatmap for outlet type vs location analysis
+- Business insights derived from each visualization
+
+📄 **View Full Python Analysis Report :**  
+
+
